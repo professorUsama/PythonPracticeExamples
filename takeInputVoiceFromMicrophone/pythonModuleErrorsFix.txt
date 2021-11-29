@@ -1,0 +1,6 @@
+error 1 (when install speechRecognition then pyaudio import error occur)
+
+to fix this 
+
+pip install pipwin
+pipwin install pyaudio
