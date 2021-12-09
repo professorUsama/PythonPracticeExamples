@@ -1,2 +1,1 @@
-)
-print(voices[1].id)
+print(f"{n}\t",end="")
